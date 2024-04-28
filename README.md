@@ -1,1 +1,1 @@
-# project01-currencyConversor
+# project01-currencyConverter
